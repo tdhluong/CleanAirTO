@@ -9,9 +9,9 @@ What sets CleanAirTO apart is its personalized approach. By utilizing a research
 Furthermore, users can access an extensive library of educational resources, empowering them to make informed decisions in their daily lives regarding air quality. CleanAirTO is not just an app; it's a comprehensive tool designed to enhance your understanding and choices in an ever-changing environment.
 
 <p>
-  <img width="500" height="400" src="src/assets/images/app2.png">
-  <img width="500" height="400" src="src/assets/images/app3.png">
-  <img width="500" height="400" src="src/assets/images/app1.png">
+  <img src="./assets/images/app2.png">
+  <img src="./assets/images/app3.png">
+  <img src="./assets/images/app1.png">
 </p>
 
 ## Built with

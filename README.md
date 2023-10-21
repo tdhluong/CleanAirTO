@@ -16,8 +16,8 @@ Furthermore, users can access an extensive library of educational resources, emp
 
 ## Built with
 
-- React Native - The framework used
-- TypeScript
+- Framework: React Native
+- Language: TypeScript
 
 ## Authors
 
